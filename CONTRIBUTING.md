@@ -71,4 +71,4 @@ If you have an idea for an improvement to this project:
   - If an issue exists already, feel free to join that conversation.
   - If not...
     - Open an issue describing a use case for your suggested change; or
-    - If it's faster to just make the change, submit a pull request as above (keeping in mind that unsolicited pull requests may not be accepted)
+    - If it's faster to just make the change, submit a pull request as above (keeping in mind that there's always a chance an unsolicited pull request might not be accepted)
